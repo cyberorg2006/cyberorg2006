@@ -4,7 +4,6 @@
 
 # 👋 Hi, I'm Manikanta
 
-## 👋 Hi, I'm Manikanta
 
 <h2 align="center">🟢 SYSTEM INFORMATION</h2>
 
