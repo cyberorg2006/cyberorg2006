@@ -79,18 +79,18 @@ Learning. Practicing. Exploring. Securing.
 
 
 
-<h2 align="center">📊 SHINOBI PERFORMANCE STATS</h2>
+
+<h2 align="center">GitHub Overview</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cyberorg2006&show_icons=true&theme=tokyonight&hide_border=true&title_color=9B5CFF&icon_color=00D9FF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberorg2006&layout=compact&theme=tokyonight&hide_border=true&title_color=9B5CFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberorg2006&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="160" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberorg2006&layout=compact&theme=transparent&hide_border=true" height="160" alt="Most used languages" />
 </p>
-
-<h3 align="center">🔥 CONTRIBUTION STREAK</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cyberorg2006&theme=tokyonight&hide_border=true&ring=9B5CFF&fire=00D9FF&currStreakLabel=9B5CFF" />
+  <img src="https://streak-stats.demolab.com?user=cyberorg2006&theme=transparent&hide_border=true" height="160" alt="GitHub contribution streak" />
 </p>
+
 
 <h3 align="center">🐍 CONTRIBUTION SNAKE</h3>
 
