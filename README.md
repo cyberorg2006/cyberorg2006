@@ -16,34 +16,44 @@ I am a Computer Science Engineering student specializing in Cybersecurity, passi
 
 ---
 
-## 🛠️ Skills & Technologies
 
-**Programming**
- 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<h2 align="center">⚔️ CYBERSECURITY ARSENAL</h2>
 
-**Cybersecurity Tools**
+<h3 align="center">💻 PROGRAMMING LANGUAGES</h3>
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,js" />
+</p>
 
-**Other Technologies**
+<h3 align="center">🛡️ SECURITY TOOLS</h3>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-008080?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Wireshark-00FF41?style=for-the-badge&logo=wireshark&logoColor=black" />
+  <img src="https://img.shields.io/badge/Burp_Suite-00FF41?style=for-the-badge&logo=burpsuite&logoColor=black" />
+  <img src="https://img.shields.io/badge/Metasploit-00FF41?style=for-the-badge&logo=metasploit&logoColor=black" />
+</p>
+
+<h3 align="center">🌐 WEB & DATABASE</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sql,js" />
+</p>
+
+<h3 align="center">🔗 OTHER TECHNOLOGIES</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+</p>
+
+<p align="center">
+  <i>Learning • Practicing • Improving Every Day</i>
+</p>
+
 
 ## 📊 GitHub Statistics
 
