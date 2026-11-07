@@ -98,13 +98,6 @@ Learning. Practicing. Exploring. Securing.
   <img src="https://raw.githubusercontent.com/cyberorg2006/cyberorg2006/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
-
-## 🐍 Contribution Snake
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/cyberorg2006/cyberorg2006/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🏆 TryHackMe
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/csecurityexpert)
