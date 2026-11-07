@@ -8,8 +8,6 @@
 <h2 align="center">🟢 SYSTEM INFORMATION</h2>
 
 
-<h3 align="center">🟢 SYSTEM INFORMATION</h3>
-
 <div align="center">
 
 ```text
