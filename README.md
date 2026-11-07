@@ -10,9 +10,9 @@
 
 <div align="center">
 
-```text
+<pre>
 ╔══════════════════════════════════════════╗
-║       MANIKANTA @ CYBERSEC               ║
+║          MANIKANTA @ CYBERSEC            ║
 ╠══════════════════════════════════════════╣
 ║  USER      : Manikanta                   ║
 ║  ROLE      : CSE Cybersecurity Student   ║
@@ -24,9 +24,9 @@
 ║                                          ║
 ║  GOAL      : Cybersecurity Professional  ║
 ╠══════════════════════════════════════════╣
-║           [ SYSTEM READY ]               ║
+║             SYSTEM READY                 ║
 ╚══════════════════════════════════════════╝
-```
+</pre>
 
 </div>
 
