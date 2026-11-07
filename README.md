@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=ACCESS+GRANTED...;MANIKANTA+%7C+CYBERSECURITY+STUDENT;LEARNING+ETHICAL+HACKING;EXPLORING+NETWORK+SECURITY" alt="Typing SVG" />
+</p>
+
 # 👋 Hi, I'm Manikanta
 
 ### 🔐 CSE Cybersecurity Student | Aspiring Cybersecurity Professional
