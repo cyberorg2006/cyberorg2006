@@ -4,17 +4,27 @@
 
 # 👋 Hi, I'm Manikanta
 
-### 🔐 CSE Cybersecurity Student | Aspiring Cybersecurity Professional
 
-I am a Computer Science Engineering student specializing in Cybersecurity, passionate about learning how systems work, identifying security vulnerabilities, and understanding how to protect digital environments.
+## 👋 Hi, I'm Manikanta
 
-- 🔭 Exploring Ethical Hacking and Cybersecurity
-- 🌱 Learning Networking, Linux, and Security Tools
-- 🛡️ Interested in Penetration Testing and Network Security
-- 🎯 Working towards becoming a skilled cybersecurity professional
-- 💻 Practicing programming and technical problem-solving
+<h2 align="center">🟢 SYSTEM INFORMATION</h2>
 
----
+<div align="center">
+
+```text
+┌──[ MANIKANTA@CYBERSEC ]──
+│
+├── USER       : Manikanta
+├── ROLE       : CSE Cybersecurity Student
+├── STATUS     : Learning & Exploring
+├── INTEREST   : Ethical Hacking
+├── FOCUS      : Network Security
+├── OS         : Linux
+├── TOOLS      : Kali Linux, Nmap, Wireshark
+│
+├── GOAL       : Become a Cybersecurity Professional
+│
+└──[ SYSTEM READY ]
 
 
 <h2 align="center">⚔️ CYBERSECURITY ARSENAL</h2>
