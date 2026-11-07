@@ -3,6 +3,7 @@
 </p>
 
 # 👋 Hi, I'm Manikanta
+
 ## 👋 Hi, I'm Manikanta
 
 <h2 align="center">🟢 SYSTEM INFORMATION</h2>
@@ -23,6 +24,16 @@
 ├── GOAL       : Become a Cybersecurity Professional
 │
 └──[ SYSTEM READY ]
+```
+
+</div>
+
+<h3 align="center">⚡ CURRENT MISSION</h3>
+
+<p align="center">
+Learning. Practicing. Exploring. Securing.
+</p>
+
 
 
 
