@@ -7,25 +7,31 @@
 
 <h2 align="center">🟢 SYSTEM INFORMATION</h2>
 
+
+<h3 align="center">🟢 SYSTEM INFORMATION</h3>
+
 <div align="center">
 
 ```text
-┌──[ MANIKANTA@CYBERSEC ]──
-│
-├── USER       : Manikanta
-├── ROLE       : CSE Cybersecurity Student
-├── STATUS     : Learning & Exploring
-├── INTEREST   : Ethical Hacking
-├── FOCUS      : Network Security
-├── OS         : Linux
-├── TOOLS      : Kali Linux, Nmap, Wireshark
-│
-├── GOAL       : Become a Cybersecurity Professional
-│
-└──[ SYSTEM READY ]
+╔══════════════════════════════════════════╗
+║       MANIKANTA @ CYBERSEC               ║
+╠══════════════════════════════════════════╣
+║  USER      : Manikanta                   ║
+║  ROLE      : CSE Cybersecurity Student   ║
+║  STATUS    : Learning & Exploring        ║
+║  INTEREST  : Ethical Hacking             ║
+║  FOCUS     : Network Security            ║
+║  OS        : Linux                       ║
+║  TOOLS     : Kali Linux, Nmap, Wireshark ║
+║                                          ║
+║  GOAL      : Cybersecurity Professional  ║
+╠══════════════════════════════════════════╣
+║           [ SYSTEM READY ]               ║
+╚══════════════════════════════════════════╝
 ```
 
 </div>
+
 
 <h3 align="center">⚡ CURRENT MISSION</h3>
 
