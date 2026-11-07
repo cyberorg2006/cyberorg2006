@@ -78,15 +78,26 @@ Learning. Practicing. Exploring. Securing.
 </p>
 
 
-## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberorg2006&show_icons=true&theme=chartreuse-dark&hide_border=true)
+<h2 align="center">📊 SHINOBI PERFORMANCE STATS</h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberorg2006&layout=compact&theme=chartreuse-dark&hide_border=true)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cyberorg2006&show_icons=true&theme=tokyonight&hide_border=true&title_color=9B5CFF&icon_color=00D9FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberorg2006&layout=compact&theme=tokyonight&hide_border=true&title_color=9B5CFF" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=cyberorg2006&theme=chartreuse-dark&hide_border=true)
+<h3 align="center">🔥 CONTRIBUTION STREAK</h3>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cyberorg2006&theme=tokyonight&hide_border=true&ring=9B5CFF&fire=00D9FF&currStreakLabel=9B5CFF" />
+</p>
+
+<h3 align="center">🐍 CONTRIBUTION SNAKE</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cyberorg2006/cyberorg2006/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
 
 ## 🐍 Contribution Snake
 
