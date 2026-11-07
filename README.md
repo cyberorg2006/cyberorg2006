@@ -80,15 +80,20 @@ Learning. Practicing. Exploring. Securing.
 
 
 
-<h2 align="center">GitHub Overview</h2>
+
+<h2 align="center">GitHub Profile</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberorg2006&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="160" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberorg2006&layout=compact&theme=transparent&hide_border=true" height="160" alt="Most used languages" />
+  <a href="https://github.com/cyberorg2006">
+    <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://tryhackme.com/p/csecurityexpert">
+    <img src="https://img.shields.io/badge/TryHackMe-View_Profile-212C42?style=for-the-badge&logo=tryhackme" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cyberorg2006&theme=transparent&hide_border=true" height="160" alt="GitHub contribution streak" />
+  <i>Learning • Building • Securing</i>
 </p>
 
 
